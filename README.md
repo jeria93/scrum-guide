@@ -53,10 +53,10 @@ A limited period of time (1-4 weeks) where the team selects user stories from th
 ## Scrum Process
 
 ### **1️⃣ Sprint Planning**
-### **2️⃣ Sprint Planning**
-### **3️⃣ Sprint Planning**
-### **4️⃣ Sprint Planning**
-### **5️⃣ Sprint Planning**
+### **2️⃣ Sprint Execution**
+### **3️⃣ Sprint Review**
+### **4️⃣ Sprint Retrospective**
+### **✅ Sprint Goal**
 ---
 ## Concepts & Terminology
 ---
