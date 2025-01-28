@@ -55,12 +55,22 @@ A limited period of time (1-4 weeks) where the team selects user stories from th
 ### **1️⃣ Sprint Planning**
 This is a guideline, but do have in mind, all workplaces can look different depending on needs and corporate culture
 
-Participants that are present dring the Spring Planning
-The Product Owner - Presents the Product Backlog and prioritizes user stories
-The Scrum Master - Facilitates the meeting and ensures that the scrum principles are followed
-The development team - Estimates the work and discusses whether they are realistic goals to achieve.
+**Participants that are present dring the Spring Planning**
 
+- The Product Owner - Presents the Product Backlog and prioritizes user stories
+- The Scrum Master - Facilitates the meeting and ensures that the scrum principles are followed
+- The Development Team - Estimates the work and discusses whether they are realistic goals to achieve.
 
+**The Planning Meeting**
+
+A planning meeting takes place where it is discussed what to work on during a particular sprint, one could think:
+
+What should we build?
+- Pick out the most crucial user stories and set a goal (Sprint Goal), made by the “Product Owner”, but in a large way the team decides what is realistic to achieve, it is a collaboration between both parties.
+
+How should we build it? 
+- Break down user stories into smaller tasks, this is known now as "tasks"
+- The sprint is based on user stories, these are entered into a so-called “Product Backlog”, a “Product Owner” has selected the most critical user stories, synced with the team and in what order they should be processed.
 
 
 A meeting is planned where the team discusses what should be worked
