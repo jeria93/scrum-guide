@@ -18,13 +18,13 @@
 ## 📌 Table of Contents
 
 ---
-## 📌 Table of Contents
+## 📌 About The Project
 
 ---
-## 📌 Table of Contents
+## 📌 Scrum Overview
 ---
-## 📌 Table of Contents
+## 📌 Scrum Process
 ---
-## 📌 Table of Contents
+## 📌 Concepts & Terminology
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
