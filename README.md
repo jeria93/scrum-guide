@@ -4,7 +4,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/Jeria93/scrum-guide">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+    <img src="diversity.png" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">Scrum Learning Journey</h3>
