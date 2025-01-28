@@ -57,22 +57,31 @@ This is a guideline, but do have in mind, all workplaces can look different depe
 
 **Participants that are present dring the Spring Planning**
 
-- The Product Owner - Presents the Product Backlog and prioritizes user stories
-- The Scrum Master - Facilitates the meeting and ensures that the scrum principles are followed
-- The Development Team - Estimates the work and discusses whether they are realistic goals to achieve.
+- The Product Owner - Presents the Product Backlog and prioritizes User Stories
+- The Scrum Master - Facilitates the meeting and ensures that the Scrum principles are followed
+- The Development Team - Estimates the workload and discusses whether its realistic goals to achieve.
 
 **The Planning Meeting**
 
-A planning meeting takes place where it is discussed what to work on during a particular sprint, one could think:
+A planning meeting takes place where it is discussed on what to work on during a particular sprint, one could think:
 
 What should we build?
 - Pick out the most crucial user stories and set a goal (Sprint Goal), made by the “Product Owner”, but in a large way the team decides what is realistic to achieve, it is a collaboration between both parties. These user stories falls under the Product Backlog.
 
 How should we build it? 
-- The sprint is based on the user stories that are selected, these are entered into a so-called “Sprint Backlog”
+
 - Break down user stories into smaller tasks, this is known now as "tasks"
+- The sprint is based on the User Stories that are selected, these are entered into a so-called “Sprint Backlog”
 - The tasks have an order of priority
-- Its important that everone on the team has a clear vision/understanding of the challenges
+- Its crucial that everone on the team has a clear vision/understanding of the challenges
+
+Sprint Goal
+- As the title says, what does the team want to achieve during the particular sprint (Sprint Goal)
+- This is a important aspect, the team gets a clear direction on whats needs to be done during the sprint
+- Discussions about whats actually reallisticly to achieve under the sprint
+- Both Product Owner and the team agrees on one sprint goal
+- Setting a Sprint Goal also helps the team with structure and avoid unnecessary work.
+
 
 ### **2️⃣ Sprint Execution**
 
