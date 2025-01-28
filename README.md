@@ -41,7 +41,6 @@ This repository documents my personal learning journey in Scrum. It includes:
 - A structured breakdown of Scrum methodology
 - Practical examples of backlog refinement and sprint execution
 - Personal reflections on working with Scrum and agile development
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ---
 ## Scrum Overview
