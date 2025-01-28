@@ -10,7 +10,7 @@
   <h3 align="center">Scrum Learning Journey</h3>
 
   <p align="center">
-    A structured guide to Scrum methodology, covering sprint planning, execution, backlog management, and agile best practices.
+    A somewhat structured guide to Scrum methodology, covering sprint planning, execution, backlog management, and agile best practices.
   </p>
 </div>
 
