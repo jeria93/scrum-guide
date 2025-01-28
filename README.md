@@ -26,5 +26,9 @@
 ## 📌 Scrum Process
 ---
 ## 📌 Concepts & Terminology
+---
+## 📌 My Reflections
+---
+## 📌 Contact
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
