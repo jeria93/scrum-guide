@@ -53,6 +53,18 @@ A limited period of time (1-4 weeks) where the team selects user stories from th
 ## Scrum Process
 
 ### **1️⃣ Sprint Planning**
+This is a guideline, but do have in mind, all workplaces can look different depending on needs and corporate culture
+
+Participants that are present dring the Spring Planning:
+The Product Owner - Presents the Product Backlog and prioritizes user stories
+The Scrum Master - Facilitates the meeting and ensures that the scrum principles are followed
+The development team - Estimates the work and discusses whether they are realistic goals to achieve.
+
+
+
+
+A meeting is planned where the team discusses what should be worked
+
 ### **2️⃣ Sprint Execution**
 ### **3️⃣ Sprint Review**
 ### **4️⃣ Sprint Retrospective**
