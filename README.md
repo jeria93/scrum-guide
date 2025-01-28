@@ -49,9 +49,14 @@ Scrum is an agile methodology designed to help teams efficiently develop product
 
 A limited period of time (1-4 weeks) where the team selects user stories from the product catalog, develops them, and delivers a finished product. The product is presented to the product owner during a Sprint Review.
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 ---
 ## Scrum Process
+
+### **1️⃣ Sprint Planning**
+### **2️⃣ Sprint Planning**
+### **3️⃣ Sprint Planning**
+### **4️⃣ Sprint Planning**
+### **5️⃣ Sprint Planning**
 ---
 ## Concepts & Terminology
 ---
