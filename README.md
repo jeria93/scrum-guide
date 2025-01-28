@@ -62,6 +62,6 @@ A limited period of time (1-4 weeks) where the team selects user stories from th
 ---
 ## My Reflections
 ---
-## Contact
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
