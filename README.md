@@ -66,16 +66,17 @@ This is a guideline, but do have in mind, all workplaces can look different depe
 A planning meeting takes place where it is discussed what to work on during a particular sprint, one could think:
 
 What should we build?
-- Pick out the most crucial user stories and set a goal (Sprint Goal), made by the “Product Owner”, but in a large way the team decides what is realistic to achieve, it is a collaboration between both parties.
+- Pick out the most crucial user stories and set a goal (Sprint Goal), made by the “Product Owner”, but in a large way the team decides what is realistic to achieve, it is a collaboration between both parties. These user stories falls under the Product Backlog.
 
 How should we build it? 
+- The sprint is based on the user stories that are selected, these are entered into a so-called “Sprint Backlog”
 - Break down user stories into smaller tasks, this is known now as "tasks"
-- The sprint is based on user stories, these are entered into a so-called “Product Backlog”, a “Product Owner” has selected the most critical user stories, synced with the team and in what order they should be processed.
-
-
-A meeting is planned where the team discusses what should be worked
+- The tasks have an order of priority
+- Its important that everone on the team has a clear vision/understanding of the challenges
 
 ### **2️⃣ Sprint Execution**
+
+
 ### **3️⃣ Sprint Review**
 ### **4️⃣ Sprint Retrospective**
 ### **✅ Sprint Goal**
