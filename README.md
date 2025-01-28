@@ -15,20 +15,20 @@
 </div>
 
 ---
-## 📌 Table of Contents
+## Table of Contents
 
 ---
-## 📌 About The Project
+## About The Project
 
 ---
-## 📌 Scrum Overview
+## Scrum Overview
 ---
-## 📌 Scrum Process
+## Scrum Process
 ---
-## 📌 Concepts & Terminology
+## Concepts & Terminology
 ---
-## 📌 My Reflections
+## My Reflections
 ---
-## 📌 Contact
+## Contact
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
