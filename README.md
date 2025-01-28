@@ -110,6 +110,11 @@ How should we build it?
 - The Scrum Master supports the team.
 
 ### **3️⃣ Sprint Review**
+
+- When the sprint has reached its end date, the team presents what has been built to the product owner.
+- Feedback is collected and any adjustments are made after testing what has been presented.
+
+
 ### **4️⃣ Sprint Retrospective**
 ---
 ## Concepts & Terminology
