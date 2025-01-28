@@ -85,10 +85,32 @@ Sprint Goal
 
 ### **2️⃣ Sprint Execution**
 
+- The team starts working on the tasks that have been selected that now are in the Sprint Backlog.
+- The goal is to deliver a working part of the product by the end of the sprint.
+
+Daily Stand Ups
+- Every day, smaller meetings are held for about 15 minutes
+- The purpose is to synchronize the work with each other and identify potential obstacles.
+- You usually ask yourself the questions in a structured way:
+- What did I do yesterday?
+- What should I do today?
+- Are there any obstacles?
+- Generally, you work independently and take responsibility but collaborate when necessary.
+
+Scrum Master
+- Doesnt control the meeting, but is there as an asset
+- Sees obstacle and prevents them from happening, things that can slow down the team
+- Keeps the team focused on the objective and prevents distractions
+- Secures that the Scrum principles are followed 
+
+Overall
+- Team members usally works independently.
+- Takes responsibility and pride in the tasks.
+- Team members collaborates if needed to secure a smooth development.
+- The Scrum Master supports the team.
 
 ### **3️⃣ Sprint Review**
 ### **4️⃣ Sprint Retrospective**
-### **✅ Sprint Goal**
 ---
 ## Concepts & Terminology
 ---
