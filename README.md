@@ -56,9 +56,9 @@ A limited period of time (1-4 weeks) where the team selects user stories from th
 This is a guideline, but do have in mind, all workplaces can look different depending on needs and corporate culture
 
 Participants that are present dring the Spring Planning
-[^1]The Product Owner - Presents the Product Backlog and prioritizes user stories
-[^2]The Scrum Master - Facilitates the meeting and ensures that the scrum principles are followed
-[^3]The development team - Estimates the work and discusses whether they are realistic goals to achieve.
+The Product Owner - Presents the Product Backlog and prioritizes user stories
+The Scrum Master - Facilitates the meeting and ensures that the scrum principles are followed
+The development team - Estimates the work and discusses whether they are realistic goals to achieve.
 
 
 
