@@ -46,7 +46,10 @@ This repository documents my personal learning journey in Scrum. It includes:
 Scrum is an agile methodology designed to help teams efficiently develop products through **short iterations called Sprints**
 
 ### What is a Scrum Sprint?
-Scrum is an agile methodology designed to help teams efficiently develop products through **short iterations called Sprints**
+
+A limited period of time (1-4 weeks) where the team selects user stories from the product catalog, develops them, and delivers a finished product. The product is presented to the product owner during a Sprint Review.
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 ---
 ## Scrum Process
 ---
