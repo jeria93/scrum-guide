@@ -16,6 +16,24 @@
 
 ---
 ## Table of Contents
+<details>
+  <summary>Click to expand</summary>
+  <ol>
+    <li><a href="#about-the-project">About The Project</a></li>
+    <li><a href="#scrum-overview">Scrum Overview</a></li>
+    <li><a href="#scrum-process">Scrum Process</a>
+      <ul>
+        <li><a href="#sprint-planning">Sprint Planning</a></li>
+        <li><a href="#sprint-execution">Sprint Execution</a></li>
+        <li><a href="#sprint-review">Sprint Review</a></li>
+        <li><a href="#sprint-retrospective">Sprint Retrospective</a></li>
+      </ul>
+    </li>
+    <li><a href="#concepts-and-terminology">Concepts & Terminology</a></li>
+    <li><a href="#my-reflections">My Reflections</a></li>
+    <li><a href="#contact">Contact</a></li>
+  </ol>
+</details>
 
 ---
 ## About The Project
