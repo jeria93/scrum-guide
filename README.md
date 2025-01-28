@@ -75,7 +75,7 @@ How should we build it?
 - The tasks have an order of priority
 - Its crucial that everone on the team has a clear vision/understanding of the challenges
 
-Sprint Goal
+**Sprint Goal**
 - As the title says, what does the team want to achieve during the particular sprint (Sprint Goal)
 - This is a important aspect, the team gets a clear direction on whats needs to be done during the sprint
 - Discussions about whats actually reallisticly to achieve under the sprint
@@ -88,7 +88,7 @@ Sprint Goal
 - The team starts working on the tasks that have been selected that now are in the Sprint Backlog.
 - The goal is to deliver a working part of the product by the end of the sprint.
 
-Daily Stand Ups
+**Daily Stand Ups**
 - Every day, smaller meetings are held for about 15 minutes
 - The purpose is to synchronize the work with each other and identify potential obstacles.
 - You usually ask yourself the questions in a structured way:
@@ -97,13 +97,13 @@ Daily Stand Ups
 - Are there any obstacles?
 - Generally, you work independently and take responsibility but collaborate when necessary.
 
-Scrum Master
+**Scrum Master**
 - Doesnt control the meeting, but is there as an asset
 - Sees obstacle and prevents them from happening, things that can slow down the team
 - Keeps the team focused on the objective and prevents distractions
 - Secures that the Scrum principles are followed 
 
-Overall
+**Overall**
 - Team members usally works independently.
 - Takes responsibility and pride in the tasks.
 - Team members collaborates if needed to secure a smooth development.
