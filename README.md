@@ -1,6 +1,5 @@
 <a id="readme-top"></a>
 
-<!-- PROJECT LOGO -->
 <br />
 <div align="center">
   <a href="https://github.com/Jeria93/scrum-guide">
@@ -38,12 +37,13 @@
 ---
 ## About The Project
 This repository documents my personal learning journey in Scrum. It includes:
-- A structured breakdown of Scrum methodology
+- A somewhat structured breakdown of Scrum methodology
 - Practical examples of backlog refinement and sprint execution
 - Personal reflections on working with Scrum and agile development
-
 ---
 ## Scrum Overview
+### What is Scrum?
+### What is a Scrum Sprint?
 ---
 ## Scrum Process
 ---
