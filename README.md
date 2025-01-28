@@ -43,6 +43,9 @@ This repository documents my personal learning journey in Scrum. It includes:
 ---
 ## Scrum Overview
 ### What is Scrum?
+Scrum is an agile methodology designed to help teams efficiently develop products through **short iterations called Sprints**
+
+
 ### What is a Scrum Sprint?
 ---
 ## Scrum Process
