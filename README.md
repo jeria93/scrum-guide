@@ -130,9 +130,34 @@ This is a great way to improve
 - Quicker problem solving before the next sprint
 - Greater teamwork, better understanding of the team members 
 ---
-## Concepts & Terminology
+## Scrum concepts that are good to know
+
+- User stories - These are a short description of a functionality from the perspective of the user.
+
+  You can think it in this context: As a user I want to be able to login with FaceID so i can access my bankaccounts.
+
+  The format follows: As [role] i want to be able to [functionality] so i can [goal]
+
+ - Sprints
+ 
+  A time period where the team works developing a certain functionality/feature of the product.
+
+- Story points
+
+  A measuring unit to decide how complex and how long a User Story can be.
+
+- Definition of Done
+
+  This is a checklist requirements, it can look different for each workplace, it can consist of:
+  
+  - Code is reviewed and approved
+  - Non existing bugs
+  - The code / feature are following quality standards
+  - Not half finished
 ---
 ## My Reflections
+
+
 ---
 
 
