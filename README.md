@@ -47,7 +47,7 @@ Scrum is an agile methodology designed to help teams efficiently develop product
 
 ### What is a Scrum Sprint?
 
-A limited period of time (1-4 weeks) where the team selects user stories from the product catalog, develops them, and delivers a finished product. The product is presented to the product owner during a Sprint Review.
+A limited period of time (1-4 weeks) where the team selects user stories from the product catalog, develops them, and delivers a finished product. The product is presented to the Product Owner during a Sprint Review.
 
 ---
 ## Scrum Process
@@ -63,7 +63,7 @@ This is a guideline, but do have in mind, all workplaces can look different depe
 
 **The Planning Meeting**
 
-A planning meeting takes place where it is discussed on what to work on during a particular sprint, one could think:
+A planning meeting takes place where it is discussed on what will be worked on during a particular sprint, one could think:
 
 What should we build?
 - Pick out the most crucial user stories and set a goal (Sprint Goal), made by the “Product Owner”, but in a large way the team decides what is realistic to achieve, it is a collaboration between both parties. These user stories falls under the Product Backlog.
@@ -151,9 +151,9 @@ This is a great way to improve
   This is a checklist requirements, it can look different for each workplace, it can consist of:
   
   - Code is reviewed and approved
-  - Non existing bugs
+  - There are no critical bugs
   - The code / feature are following quality standards
-  - Not half finished
+  - Not half finished (fully completed)
 ---
 ## My Reflections
 
@@ -165,12 +165,11 @@ When we where given the task, we the team immediately starting to brainstorm, a 
 
 The ideas is the start, soon enough we broke them all down to User Stories according to the needs of the user.
 
-To prioritise the users most important functions we decided to apply the "Moscow principles" which follows
-- Must haves ()
-- Should haves ()
-- Could haves ()
-- Won't haves ()
-
+To prioritise the users most important features we decided to apply the "Moscow principles" which follows
+- Must haves (Critical features for the product to work, registration and login)
+- Should haves (Important secondary features as, being able to see lists of allergies/vaccinations for each dog you have)
+- Could haves (A desirable feature, not mandatory as, map of areas to rest your dog)
+- Won't haves (Features that are not currently on focus, may be implemented later)
 
 ---
 
