@@ -124,8 +124,11 @@ You have now the possibility to question yourselfs
 - What went less well?
 - What can we learn from this print and apply it into the next sprint?
 
-This is a great way to improve your workflow with collaborations
-
+This is a great way to improve
+- Productivity
+- A greater team-morale
+- Quicker problem solving before the next sprint
+- Greater teamwork, better understanding of the team members 
 ---
 ## Concepts & Terminology
 ---
