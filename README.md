@@ -157,6 +157,7 @@ This is a great way to improve
 ---
 ## My Reflections
 
+We where given a task to make a "mock" app with a design in Figma(Pawfect-Furfriends)
 
 ---
 
