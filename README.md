@@ -157,7 +157,20 @@ This is a great way to improve
 ---
 ## My Reflections
 
-We where given a task to make a "mock" app with a design in Figma(Pawfect-Furfriends)
+We where given a task to make a "mock" app with a design in Figma(Pawfect-Furfriends) and this is how it went:
+
+- Reflection of creating and prioritizing User Stories
+
+When we where given the task, we the team immediately starting to brainstorm, a lot of great ideas came forward
+
+The ideas is the start, soon enough we broke them all down to User Stories according to the needs of the user.
+
+To prioritise the users most important functions we decided to apply the "Moscow principles" which follows
+- Must haves ()
+- Should haves ()
+- Could haves ()
+- Won't haves ()
+
 
 ---
 
