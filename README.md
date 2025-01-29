@@ -119,9 +119,12 @@ How should we build it?
 
 When the sprint is completed, its essential and a good opportunity to reflect overall on how it went.
 
-sdadadada
+You have now the possibility to question yourselfs
+- What went well?
+- What went less well?
+- What can we learn from this print and apply it into the next sprint?
 
-
+This is a great way to improve your workflow with collaborations
 
 ---
 ## Concepts & Terminology
