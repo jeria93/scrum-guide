@@ -98,7 +98,7 @@ How should we build it?
 - Generally, you work independently and take responsibility but collaborate when necessary.
 
 **Scrum Master**
-- Doesnt control the meeting, but is there as an asset
+- Doesnt control the meeting, but is there as an asset for the team
 - Sees obstacle and prevents them from happening, things that can slow down the team
 - Keeps the team focused on the objective and prevents distractions
 - Secures that the Scrum principles are followed 
@@ -116,6 +116,13 @@ How should we build it?
 
 
 ### **4️⃣ Sprint Retrospective**
+
+When the sprint is completed, its essential and a good opportunity to reflect overall on how it went.
+
+sdadadada
+
+
+
 ---
 ## Concepts & Terminology
 ---
