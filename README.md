@@ -159,11 +159,11 @@ This is a great way to improve
 
 We where given a task to make a "mock" app with a design in Figma(Pawfect-Furfriends) and this is how it went:
 
-- Reflection of creating and prioritizing User Stories
+### Reflection of creating and prioritizing User Stories
 
 When we where given the task, we the team immediately starting to brainstorm, a lot of great ideas came forward
 
-The ideas is the start, soon enough we broke them all down to User Stories according to the needs of the user.
+The ideas was the start, soon enough we broke them all down to User Stories according to the needs of the user.
 
 To prioritise the users most important features we decided to apply the "Moscow principles" which follows
 - Must haves (Critical features for the product to work, registration and login)
@@ -171,7 +171,21 @@ To prioritise the users most important features we decided to apply the "Moscow 
 - Could haves (A desirable feature, not mandatory as, map of areas to rest your dog)
 - Won't haves (Features that are not currently on focus, may be implemented later)
 
+### Things that went great
+
+- Great teamwork
+- Everyone put effort
+- Communication was a key driven factor
+- We hade alot of user stories with good descriptions which made it easy to break them down to tasks
+- Using Trello
+
+### Things that went less great
+
+- Overloaded Product Backlog from the beginning, to many user stories which led it to ve dificult to prioritise 
+- The space was fast, we where a little too enthusiastic which resulted in rushed completion, we had to make adjustments after feedback.
+- Because of an overloaded PB there were som unclear User Stories, some of them lacked clarity leading to misunderstanding
 ---
+
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
