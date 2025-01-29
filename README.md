@@ -50,7 +50,7 @@ Scrum is an agile methodology designed to help teams efficiently develop product
 A limited period of time (1-4 weeks) where the team selects user stories from the product catalog, develops them, and delivers a finished product. The product is presented to the Product Owner during a Sprint Review.
 
 ---
-## Scrum Process
+## Scrum Process - Assignment 1: Explain the different steps in a Scrum Sprint
 
 ### **1️⃣ Sprint Planning**
 This is a guideline, but do have in mind, all workplaces can look different depending on needs and corporate culture
