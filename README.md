@@ -50,7 +50,9 @@ Scrum is an agile methodology designed to help teams efficiently develop product
 A limited period of time (1-4 weeks) where the team selects user stories from the product catalog, develops them, and delivers a finished product. The product is presented to the Product Owner during a Sprint Review.
 
 ---
-## Scrum Process - Assignment 1: Explain the different steps in a Scrum Sprint
+## Assignment 1: Explain the different steps in a Scrum Sprint
+
+## Scrum Process
 
 ### **1️⃣ Sprint Planning**
 This is a guideline, but do have in mind, all workplaces can look different depending on needs and corporate culture
@@ -155,7 +157,7 @@ This is a great way to improve
   - The code / feature are following quality standards
   - Not half finished (fully completed)
 ---
-## My Reflections
+## Assignment 2: How was the process with creating/prioritizing user stories?, what could have went better?
 
 We where given a task to make a "mock" app with a design in Figma(Pawfect-Furfriends) and this is how it went:
 
