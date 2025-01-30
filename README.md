@@ -157,6 +157,8 @@ This is a great way to improve
   - There are no critical bugs
   - The code / feature are following quality standards
   - Not half finished (fully completed)
+
+(<a href="#readme-top">back to top</a>)
 ---
 ## Assignment 2: How was the process with creating/prioritizing user stories?, what could have went better?
 
