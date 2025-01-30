@@ -32,6 +32,7 @@
     <li><a href="#scrum-concepts-that-are-good-to-know">Scrum concepts that are good to know</a></li>
     <li><a href="#assignment-2-how-was-the-process-with-creatingprioritizing-user-stories-what-could-have-went-better">Assignment 2: How was the process with creating/prioritizing user stories?, what could have went better?</a></li>
     <li><a href="#assignment-3-how-do-you-turn-a-user-story-into-a-feature-use-an-example-and-define-completion">Assignment 3: How do you turn a User Story into a feature? Use an example and define completion</a></li>
+  <li><a href="final-note">Final Note</a></li>   
   </ol>
 </details>
 
@@ -261,7 +262,15 @@ Task - Is the feature complete? When..
 ---
 ## Final Note
 
+Thank you for finding your way here
 
+This is a summary part of a school assignment where we learned about SCRUM and agile methods, over the course of a few weeks
+
+These are only guidelines from my point of view, every workplace has its own "touch" of it
+
+Take the principles, adapt them to your needs and taste.
+
+"Pass on what you have learned" - Yoda
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
