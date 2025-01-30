@@ -178,15 +178,27 @@ To prioritise the users most important features we decided to apply the "Moscow 
 - Great teamwork
 - Everyone put effort
 - Communication was a key driven factor
-- We hade alot of user stories with good descriptions which made it easy to break them down to tasks
+- The majority (85%) of user stories had good descriptions which made it easy to break them down to tasks
 - Using Trello
 
 ### Things that went less great
 
-- Overloaded Product Backlog from the beginning, to many user stories which led it to ve dificult to prioritise 
-- The space was fast, we where a little too enthusiastic which resulted in rushed completion, we had to make adjustments after feedback.
+- Overloaded Product Backlog from the beginning, to many user stories which led it to be dificult to prioritise.
+- The pace was to fast, we where a little too enthusiastic which resulted in rushed completion, we had to make adjustments after feedback.
 - Because of an overloaded PB there were som unclear User Stories, some of them lacked clarity leading to misunderstanding
 ---
+
+## Assignment 3: How do you turn a User Story into a feature? Use an example and define completion
+
+A teamworker picks a User Story from all the many that where in our Product Backlog and puts it in a Sprint Backlog for development
+
+### How we estimated the difficulty 
+
+- Complexity was estimated through discussions and Planning Poker
+- Story Points was a great way to rate the level of difficulty before dividing the user story into tasks
+
+
+
 
 
 
