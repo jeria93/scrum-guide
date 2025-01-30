@@ -215,9 +215,42 @@ The User Story:
 
 Tasks - UI
 
-Create Activity, includes a layout template (XML)
-Use Activity Layout for Name, Email and Password inputs (Edittexts)
-Register Button
+- Create Activity, includes a layout template (XML)
+- Use Activity Layout for Name, Email and Password inputs (Edittexts)
+- Register Button
+
+Tasks - Code
+
+- Implement MVVM architecture
+- Create data class, for example "User"
+- Create viewmodel class/es
+- Create repository class/es for Firebase Cloud Storage / Firebase Authentication
+- Pass data by
+  - data class
+  - Repository class
+  - to viewmodel
+  - to activity / fragmement if choosen
+  - connect data to UI elements
+- Error handling
+
+Tasks - Backend
+
+- Create and configurate Firebase Cloud Storage database for the project
+- Create and configure Firebase Authentication
+- Store user data in Cloud Storage after successfully registration
+- Check if user exists in Firebase Authentication
+
+Task - Is the feature complete? When..
+
+- UI functionality is complete and the user can fill out the form successfully (name, email, password)
+- UI and Firebase(backend) communicates
+- Invalid password inputs or other incorrect inputs gives a error message for an example a "Toast"
+- The user registration is registered in Firebase Authentication
+- The user gets data saved in Firebase Cloud Storage
+- After succesful registration, the user is navigated to the login page.
+- Generall testing is done and all error messages are handled correctly
+- No crucial bugs exists
+- Code/feature has been reviewed and approved by Scrum Master/ team and meeting all the standards.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
