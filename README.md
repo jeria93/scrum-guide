@@ -258,6 +258,10 @@ Task - Is the feature complete? When..
 - Generall testing is done and all error messages are handled correctly
 - No crucial bugs exists
 - Code/feature has been reviewed and approved by Scrum Master/ team and meeting all the standards.
+---
+## Final Note
+
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
