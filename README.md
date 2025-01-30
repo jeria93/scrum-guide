@@ -131,7 +131,10 @@ This is a great way to improve
 - Productivity
 - A greater team-morale
 - Quicker problem solving before the next sprint
-- Greater teamwork, better understanding of the team members 
+- Greater teamwork, better understanding of the team members
+
+ <p align="right">(<a href="#readme-top">back to top</a>)</p> 
+ 
 ---
 ## Scrum concepts that are good to know
 
@@ -157,8 +160,9 @@ This is a great way to improve
   - There are no critical bugs
   - The code / feature are following quality standards
   - Not half finished (fully completed)
+  
+<p align="right">(<a href="#readme-top">back to top</a>)</p> 
 
-(<a href="#readme-top">back to top</a>)
 ---
 ## Assignment 2: How was the process with creating/prioritizing user stories?, what could have went better?
 
@@ -189,6 +193,9 @@ To prioritise the users most important features we decided to apply the "Moscow 
 - Overloaded Product Backlog from the beginning, to many user stories which led it to be dificult to prioritise.
 - The pace was to fast, we where a little too enthusiastic which resulted in rushed completion, we had to make adjustments after feedback.
 - Because of an overloaded PB there were som unclear User Stories, some of them lacked clarity leading to misunderstanding
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>  
+
 ---
 
 ## Assignment 3: How do you turn a User Story into a feature? Use an example and define completion
