@@ -197,6 +197,19 @@ A teamworker picks a User Story from all the many that where in our Product Back
 - Complexity was estimated through discussions and Planning Poker
 - Story Points was a great way to rate the level of difficulty before dividing the user story into tasks
 
+### The development process 
+
+- Product Backlog
+- Sprint Backlog
+- In Progress
+- In Review
+- Done
+
+### Breaking down the User Story into tasks
+
+The User Story:
+- As a new user, I want to be able to register an account in the aoo so i can log in and use the services.
+
 
 
 
