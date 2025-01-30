@@ -32,7 +32,7 @@
     <li><a href="#scrum-concepts-that-are-good-to-know">Scrum concepts that are good to know</a></li>
     <li><a href="#assignment-2-how-was-the-process-with-creatingprioritizing-user-stories-what-could-have-went-better">Assignment 2: How was the process with creating/prioritizing user stories?, what could have went better?</a></li>
     <li><a href="#assignment-3-how-do-you-turn-a-user-story-into-a-feature-use-an-example-and-define-completion">Assignment 3: How do you turn a User Story into a feature? Use an example and define completion</a></li>
-  <li><a href="final-note">Final Note</a></li>   
+  <li><a href="#final-note">Final Note</a></li>   
   </ol>
 </details>
 
