@@ -1,5 +1,4 @@
 <a id="readme-top"></a>
-
 <br />
 <div align="center">
   <a href="https://github.com/Jeria93/scrum-guide">
@@ -22,15 +21,13 @@
     <li><a href="#scrum-overview">Scrum Overview</a></li>
     <li><a href="#scrum-process">Scrum Process</a>
       <ul>
-        <li><a href="#sprint-planning">Sprint Planning</a></li>
-        <li><a href="#sprint-execution">Sprint Execution</a></li>
-        <li><a href="#sprint-review">Sprint Review</a></li>
-        <li><a href="#sprint-retrospective">Sprint Retrospective</a></li>
+        <li><a href="#1-sprint-planning">Sprint Planning</a></li>
+        <li><a href="#2-sprint-execution">Sprint Execution</a></li>
+        <li><a href="#3-sprint-review">Sprint Review</a></li>
+        <li><a href="#4-sprint-retrospective">Sprint Retrospective</a></li>
       </ul>
     </li>
-    <li><a href="#concepts-and-terminology">Concepts & Terminology</a></li>
-    <li><a href="#my-reflections">My Reflections</a></li>
-    <li><a href="#contact">Contact</a></li>
+    <li><a href="#scrum-concepts-that-are-good-to-know">Concepts & Terminology</a></li>
   </ol>
 </details>
 
@@ -54,7 +51,7 @@ A limited period of time (1-4 weeks) where the team selects user stories from th
 
 ## Scrum Process
 
-### **1️⃣ Sprint Planning**
+### **1. Sprint Planning**
 This is a guideline, but do have in mind, all workplaces can look different depending on needs and corporate culture
 
 **Participants that are present dring the Spring Planning**
@@ -85,7 +82,7 @@ How should we build it?
 - Setting a Sprint Goal also helps the team with structure and avoid unnecessary work.
 
 
-### **2️⃣ Sprint Execution**
+### **2. Sprint Execution**
 
 - The team starts working on the tasks that have been selected that now are in the Sprint Backlog.
 - The goal is to deliver a working part of the product by the end of the sprint.
@@ -111,13 +108,13 @@ How should we build it?
 - Team members collaborates if needed to secure a smooth development.
 - The Scrum Master supports the team.
 
-### **3️⃣ Sprint Review**
+### **3. Sprint Review**
 
 - When the sprint has reached its end date, the team presents what has been built to the product owner.
 - Feedback is collected and any adjustments are made after testing what has been presented.
 
 
-### **4️⃣ Sprint Retrospective**
+### **4. Sprint Retrospective**
 
 When the sprint is completed, its essential and a good opportunity to reflect overall on how it went.
 
@@ -208,11 +205,13 @@ A teamworker picks a User Story from all the many that where in our Product Back
 ### Breaking down the User Story into tasks
 
 The User Story:
-- As a new user, I want to be able to register an account in the aoo so i can log in and use the services.
+- As a new user, I want to be able to register an account in the app so i can log in and use the services.
 
+Tasks - UI
 
-
-
-
+Create Activity, includes a layout template (XML)
+Use Activity Layout for Name, Email and Password inputs (Edittexts)
+Register Button
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+
