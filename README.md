@@ -19,15 +19,19 @@
   <ol>
     <li><a href="#about-the-project">About The Project</a></li>
     <li><a href="#scrum-overview">Scrum Overview</a></li>
-    <li><a href="#scrum-process">Scrum Process</a>
+    <li><a href="#assignment-1-explain-the-different-steps-in-a-scrum-sprint">Assignment 1: Explain the different steps in a Scrum Sprint</a></li>
+    <li>
+      <a href="#scrum-process">Scrum Process</a>
       <ul>
-        <li><a href="#1-sprint-planning">Sprint Planning</a></li>
-        <li><a href="#2-sprint-execution">Sprint Execution</a></li>
-        <li><a href="#3-sprint-review">Sprint Review</a></li>
-        <li><a href="#4-sprint-retrospective">Sprint Retrospective</a></li>
+        <li><a href="#1-sprint-planning">1. Sprint Planning</a></li>
+        <li><a href="#2-sprint-execution">2. Sprint Execution</a></li>
+        <li><a href="#3-sprint-review">3. Sprint Review</a></li>
+        <li><a href="#4-sprint-retrospective">4. Sprint Retrospective</a></li>
       </ul>
     </li>
-    <li><a href="#scrum-concepts-that-are-good-to-know">Concepts & Terminology</a></li>
+    <li><a href="#scrum-concepts-that-are-good-to-know">Scrum concepts that are good to know</a></li>
+    <li><a href="#assignment-2-how-was-the-process-with-creatingprioritizing-user-stories-what-could-have-went-better">Assignment 2: How was the process with creating/prioritizing user stories?, what could have went better?</a></li>
+    <li><a href="#assignment-3-how-do-you-turn-a-user-story-into-a-feature-use-an-example-and-define-completion">Assignment 3: How do you turn a User Story into a feature? Use an example and define completion</a></li>
   </ol>
 </details>
 
